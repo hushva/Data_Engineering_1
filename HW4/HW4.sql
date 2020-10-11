@@ -1,5 +1,3 @@
-SELECT o.orderNumber, od.priceEach, od.quantityOrdered, pr.productName, pr.productLine, c.city, c.country, o.orderDate
-  FROM orders o
-INNER JOIN orderDetails od USING (orderNumber)
-INNER JOIN products pr ON od.productCode = pr.productCode
-INNER JOIN customers c USING (customerNumber)
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc36a9d13d5ba87608bef4e8f8004359be4c160c6b413d2b682af9492ec5cae0
+size 285
