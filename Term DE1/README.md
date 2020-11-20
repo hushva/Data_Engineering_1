@@ -1,6 +1,6 @@
 # Term Project
 by **Karola Takács**
-**Student id: 2003898**
+ (Student id: 2003898)
 
 - - - - - - - - - - - - - - - - - - - -
 
