@@ -5,7 +5,7 @@ by **Karola Takács**
 - - - - - - - - - - - - - - - - - - - -
 
 ## The content of the Term folder
-* imdb_db.sql file for creating the dataset
+* imdb_db.sql file for creating the dataset (please note that the file is too big to be opened)
 * wh_sp_views.sql file contains all the scripts for creating the analytical layer, stored procedures, views and a trigger for inserts on _movies_ table.
 
 
