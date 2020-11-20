@@ -1,5 +1,6 @@
 # Term Project
 by **Karola Takács**
+ (Student id: 2003898)
 
 - - - - - - - - - - - - - - - - - - - -
 
@@ -13,7 +14,7 @@ by **Karola Takács**
 1. **OPERATIONAL LAYER**: My operational layer consists of 7 tables, which store information about the imdb movie ratings and details of the movies.
 
 #### Database diagram
-![Database diagram](/Term/DB_schema.png)
+![Database diagram](/Term_DE1/DB_schema.png)
 
 2. **Analytics**: The tables are rather small, dominantly with qualitative data. Possible questions to ask from this data are:
 * How genres changed over the years?
